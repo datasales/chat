@@ -1,0 +1,24 @@
+.bytes {
+  font-size: 11px !important;
+  padding-right: 3px !important;
+}
+
+.bytes::before {
+  content: "\2022";
+  display: inline-block;
+  margin: 0 4px;
+}
+
+.pages {
+  font-size: 11px !important;
+  padding-right: 3px !important;
+}
+
+.pages::after {
+  content: "\2022";
+  display: inline-block;
+  margin: 0 4px;
+}
+
+
+/*# sourceMappingURL=main.2771e3d5.chunk.css.map*/
