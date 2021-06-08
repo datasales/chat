@@ -1,8 +1,14 @@
 {
   "name": "@datasales/chat",
-  "homepage": "https://andre-victor19.github.io/-datasales-chat",
+  "homepage": "https://datasales.github.io/chat",
   "version": "1.0.0",
-  "private": true,
+  "description": "Package components chat.",
+  "license": "MIT",
+  "keywords": [
+    "chat",
+    "datasales"
+  ],
+  "main": "src/index.js",
   "dependencies": {
     "@material-ui/core": "^4.11.4",
     "@material-ui/icons": "^4.11.2",
@@ -11,7 +17,6 @@
     "@testing-library/user-event": "^12.1.10",
     "axios": "^0.21.1",
     "moment": "^2.29.1",
-    "pdfjs-dist": "1.8.432",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-pdf": "^5.3.0",
